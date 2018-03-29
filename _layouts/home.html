@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<section class="my-8 py-8 amenities">
+    <div class="container mx-auto px-8">
+
+      <div class="sm:flex py-8 mb-24">
+        <div class="sm:w-1/2 mb-8">
+          <img src="./assets/img/fairmontbuilding.jpg" alt="" class="shadow-lg rounded" srcset="">
+        </div>
+        <div class="sm:w-1/2 sm:pl-8">
+          <h3 class="text-3xl mb-4 border-after border-after-left">{{page.livingSection.livingTitle}}</h3>
+          <ul class="pl-4">
+            {{page.livingSection.livingList}}
+          </ul>
+        </div>
+      </div>
+
+      <div class="sm:flex py-8 my-24">
+        <div class="sm:w-1/2 sm:pr-8 mb-8">
+          <h3 class="text-3xl mb-4 border-after border-after-left">{{page.community.title}}</h3>
+          <ul class="pl-4">
+            {{page.community.list}}
+          </ul>
+        </div>
+        <div class="sm:w-1/2">
+          <img src="./assets/img/fairmont-pool.jpg" alt="" class="shadow-lg rounded" srcset="">
+        </div>
+      </div>
+
+
+
+      <div class="sm:flex py-8 my-24">
+        <div class="sm:w-1/2 mb-8">
+          <img src="./assets/img/fairmontbuilding.jpg" alt="" class="shadow-lg rounded" srcset="">
+        </div>
+        <div class="sm:w-1/2 sm:pl-8">
+          <h3 class="text-3xl mb-4 border-after border-after-left">{{page.security.title}}</h3>
+          <ul class="pl-4">
+            {{page.security.list}}
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="relative bg-top comfort">
+    <div class="absolute pin bg-black opacity-25 md:invisible overlay"></div>
+    <div class="container py-8 mx-auto relative">
+      <div class="w-4/5 md:w-3/5 mx-auto py-4 lg:h-64 text-white">
+        <h2 class="text-center uppercase text-4xl mb-4 mt-8 border-after border-after-center">{{page.comfort.title}}</h2>
+        <h3 class="font-sans font-thin leading-normal text-lg px-8 text-shadow">{{page.comfort.text}}</h3>
+      </div>
+    </div>
+  </section>
+
+
