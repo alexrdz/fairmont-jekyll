@@ -8,6 +8,19 @@ import rename from 'gulp-rename';
 import cleanCSS from 'gulp-clean-css';
 import plumber from 'gulp-plumber';
 
+import markdownToJSON from 'gulp-markdown-to-json';
+import gutil from 'gulp-util';
+import marked from 'marked';
+
+gulp.task('gen-api-data', generateAPIData)
+function generateAPIData () {
+  return gulp.src(['./**/*.md', './**/*.markdown', '!./**/*/README.md', '!./node_modules/**/*.md', '!./node_modules/**/*.markdown'])
+    .pipe(gutil.buffer())
+    .pipe(markdownToJSON(marked, '_data.json'))
+    .pipe(gulp.dest('./api/'))
+}
+
+
 const PATHS = {
   assets: './assets',
   css: './src/css/**/*',
