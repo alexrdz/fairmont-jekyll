@@ -31,4 +31,4 @@ living:
         <li class="mb-2">Resident choice for cable and internet provider</li> <li class="mb-2">Public
         wifi available on 1st floor lobby and guest rooms</li> <li class="mb-2">Pet-friendly</li>
 ---
-This is the body.
+This is the body
