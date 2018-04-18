@@ -78,11 +78,6 @@ fields:
     type: text
     hidden: false
     default: Section Title
-  - name: list
-    label: List
-    type: textarea
-    hidden: false
-    default: Section List
   - type: list
     name: section_list
     label: Section List
