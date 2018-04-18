@@ -1,0 +1,16 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: list
+  default:
+  - Pet-friendly
+  - Public wifi available on 1st floor lobby and guest rooms
+  - Resident choice for cable and internet provider
+  - HVAC maintained by building
+  - 2 elevators
+  - Covered patios for each unit, (XX sq ft - xx sq ft)
+  - Floor to ceiling windows and sliding doors to patios
+  label: Home List
+  name: home_list
+  description: List of items
