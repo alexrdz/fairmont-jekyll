@@ -22,13 +22,16 @@ comfort:
   title: Comfort &amp; Elegance
   text: Our condominiums are perfect for those individuals seeking a relatively maintenance-free
     lifestyle in a secure and elegant community!
-living:
+
+living: 
   title: Living
-  list: |-
-    <li class="mb-2">Floor to ceiling windows and sliding doors to patios</li>
-        <li class="mb-2">Covered patios for each unit, (XX sq ft - xx sq ft)</li> <li
-        class="mb-2">2 elevators</li> <li class="mb-2">HVAC maintained by building</li>
-        <li class="mb-2">Resident choice for cable and internet provider</li> <li class="mb-2">Public
-        wifi available on 1st floor lobby and guest rooms</li> <li class="mb-2">Pet-friendly</li>
+  list:
+    - content: Floor to ceiling windows and sliding doors to patios
+    - content: Covered patios for each unit, (XX sq ft - xx sq ft)
+    - content: 2 elevators
+    - content: HVAC maintained by building
+    - content: Resident choice for cable and internet provider
+    - content: Public wifi available on 1st floor lobby and guest rooms
+    - content: Pet-friendly
 ---
 This is the home body.
