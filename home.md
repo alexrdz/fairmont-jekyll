@@ -22,7 +22,10 @@ comfort:
   title: Comfort &amp; Elegance
   text: Our condominiums are perfect for those individuals seeking a relatively maintenance-free
     lifestyle in a secure and elegant community!
-
+security: 
+  title: Security
+  list:
+    - msg: tester
 living: 
   title: Living
   list:
