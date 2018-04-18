@@ -26,12 +26,7 @@ comfort:
     lifestyle in a secure and elegant community!
 living:
   title: Living
-  list: |-
-    <li class="mb-2">Floor to ceiling windows and sliding doors to patios</li>
-        <li class="mb-2">Covered patios for each unit, (XX sq ft - xx sq ft)</li> <li
-        class="mb-2">2 elevators</li> <li class="mb-2">HVAC maintained by building</li>
-        <li class="mb-2">Resident choice for cable and internet provider</li> <li class="mb-2">Public
-        wifi available on 1st floor lobby and guest rooms</li> <li class="mb-2">Pet-friendly</li>
+  list:
   section_list:
   - Floor to ceiling windows and sliding doors to patios
   - Covered patios for each unit, (XX sq ft - xx sq ft)
