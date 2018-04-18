@@ -1,6 +1,6 @@
 ---
 hide_body: true
-is_partial: false
+is_partial: true
 fields:
 - type: list
   default:
