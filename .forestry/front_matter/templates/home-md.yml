@@ -1,0 +1,89 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: livingSection
+  label: Livingsection
+  type: field_group
+  fields:
+  - name: livingTitle
+    label: Livingtitle
+    type: text
+    hidden: false
+    default: ''
+  - name: livingList
+    label: Livinglist
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: community
+  label: Community
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: list
+    label: List
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: security
+  label: Security
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: list
+    label: List
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: comfort
+  label: Comfort
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: text
+    label: Text
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: living
+  label: Living
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: list
+    label: List
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
