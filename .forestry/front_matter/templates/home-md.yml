@@ -6,7 +6,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: HomeLists
 - name: livingSection
   label: Livingsection
   type: field_group
@@ -31,12 +31,12 @@ fields:
     label: Title
     type: text
     hidden: false
-    default: ''
+    default: Section Title
   - name: list
     label: List
     type: textarea
     hidden: false
-    default: ''
+    default: Section List
   hidden: false
   default: ''
 - name: security
@@ -47,12 +47,12 @@ fields:
     label: Title
     type: text
     hidden: false
-    default: ''
+    default: Section Title
   - name: list
     label: List
     type: textarea
     hidden: false
-    default: ''
+    default: Section List
   hidden: false
   default: ''
 - name: comfort
@@ -63,12 +63,12 @@ fields:
     label: Title
     type: text
     hidden: false
-    default: ''
+    default: Section Title
   - name: text
     label: Text
     type: textarea
     hidden: false
-    default: ''
+    default: Section List
   hidden: false
   default: ''
 - name: living
@@ -79,11 +79,11 @@ fields:
     label: Title
     type: text
     hidden: false
-    default: ''
+    default: Section Title
   - name: list
     label: List
     type: textarea
     hidden: false
-    default: ''
+    default: Section List
   hidden: false
   default: ''
