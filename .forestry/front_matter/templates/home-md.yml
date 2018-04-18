@@ -53,6 +53,10 @@ fields:
     type: textarea
     hidden: false
     default: Section List
+  - type: list
+    name: section_list
+    label: Section List
+    description: List of Items
   hidden: false
   default: ''
 - name: comfort
