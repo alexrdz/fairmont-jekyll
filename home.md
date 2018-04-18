@@ -36,4 +36,4 @@ living:
     - Public wifi available on 1st floor lobby and guest rooms
     - Pet-friendly
 ---
-This is the home body.
+This is not the home body.
