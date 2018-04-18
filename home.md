@@ -27,13 +27,13 @@ comfort:
 living:
   title: Living
   list:
-  section_list:
-  - Floor to ceiling windows and sliding doors to patios
-  - Covered patios for each unit, (XX sq ft - xx sq ft)
-  - 2 elevators
-  - HVAC maintained by building
-  - Resident choice for cable and internet provider
-  - Public wifi available on 1st floor lobby and guest rooms
-  - Pet-friendly
+    section_list:
+    - Floor to ceiling windows and sliding doors to patios
+    - Covered patios for each unit, (XX sq ft - xx sq ft)
+    - 2 elevators
+    - HVAC maintained by building
+    - Resident choice for cable and internet provider
+    - Public wifi available on 1st floor lobby and guest rooms
+    - Pet-friendly
 ---
 This is the home body.
