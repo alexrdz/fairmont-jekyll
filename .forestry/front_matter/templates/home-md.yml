@@ -84,5 +84,9 @@ fields:
     name: section_list
     label: Section List
     description: List of Items
+  - type: file
+    label: Image
+    name: image
+    description: Add an image
   hidden: false
   default: ''
