@@ -43,5 +43,6 @@ living:
   - Resident choice for cable and internet provider
   - Public wifi available on 1st floor lobby and guest rooms
   - Pet-friendly
+  image: "/uploads/2018/05/02/Unit 606 - Balcony View 8.jpg"
 ---
 This is not the home body.
